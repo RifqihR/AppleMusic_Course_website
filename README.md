@@ -1,1 +1,1 @@
-"# AppleMusic_Course_website" 
+This Proejct is using Reactjs and C# net core
